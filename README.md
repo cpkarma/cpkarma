@@ -4,7 +4,7 @@
 - 📫 How to reach me https://fb.com/orion.hridoy && orion@orionhridoy.me
 
 **[Released Public API]**
-- 💥 https://masskiller.extentit.com
+- 💥 https://extentit.com
 
 [![bitcoin-black](https://raw.githubusercontent.com/orionhridoy/orionhridoy/main/bitcoin-donate-black.png)](https://raw.githubusercontent.com/orionhridoy/orionhridoy/main/btc-address)
 <!---
