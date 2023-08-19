@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orionhridoy
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning deep analyzing of web applications
-- 📫 How to reach me https://fb.com/orion.hridoy && orion@orionhridoy.me
+- 📫 How to reach me https://fb.com/orion.hridoy
 
 **[Released Public API]**
 - 💥 https://cpkarma.cc
