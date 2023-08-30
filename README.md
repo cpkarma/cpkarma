@@ -1,5 +1,7 @@
 - 👋 Hello from @cpkarma
 
+Telegram: [@xnabob](https://t.me/xnabob)
+
 **[Released Public API]**
 - 💥 https://cpkarma.cc
 
