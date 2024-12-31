@@ -1,6 +1,6 @@
 - 👋 Hello from **Karma Corps**
 
-Telegram: [@xnabob](https://t.me/xnabob)
+**Telegram:** [@xnabob](https://t.me/xnabob)
 
 **Tools List**
 
