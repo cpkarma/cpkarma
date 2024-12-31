@@ -3,7 +3,7 @@
 **Contact:** [@xnabob](https://t.me/xnabob)
 **Channel:** [Telegram](https://t.me/cPanelKarma)
 
-## Tools List
+## [ Tools List ]
 
 1. **cPanel Karma PHP** - [Download Link](https://github.com/cpkarma/cPanel-Karma)
 2. **Mass cPanel Checker Python without API** - [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
@@ -13,7 +13,7 @@
 
 
 
-## [Released Public API]
+## [ Public API ]
 - 💥 https://cpkarma.cc
 
 [![bitcoin-black](https://raw.githubusercontent.com/cpkarma/cpkarma/main/bitcoin-donate-black.png)](https://raw.githubusercontent.com/cpkarma/cpkarma/refs/heads/main/btc-address)
