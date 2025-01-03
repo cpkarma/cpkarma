@@ -7,7 +7,7 @@
 
 1. **(PHP) - cPanel Karma** - [Download Link](https://github.com/cpkarma/cPanel-Karma)
 2. **(PHP) - Reborn Bypass Web Shell** - [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
-3. **(Python) - Mass cPanel Checker without API** - [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
+3. **(Python) - Mass cPanel Checker And Shell Uploader without API** - [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
 4. **(Python) - Mass cPanel Checker with API** - [Download Link](https://github.com/cpkarma/Cpanel-Checker)
 5. **(Python) - Mass Any Shell or Uploader To File Uploader** - [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
 6. **(Python) - Mass WHM To cPanel Password Reset** - [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
