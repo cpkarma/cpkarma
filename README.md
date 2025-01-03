@@ -1,7 +1,7 @@
 👋 Hello from **Karma Corps**
 
 **Contact:** [@xnabob](https://t.me/xnabob)
-**Channel:** [Telegram](https://t.me/cPanelKarma)
+**Channel:** [Telegram](https://t.me/KarmaSyndicate)
 
 ## [ Tools List ]
 
