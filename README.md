@@ -1,4 +1,4 @@
-👋 Hello from **Karma Corps**
+👋 Hello from **Karma Syndicate**
 
 **Contact:** [@xnabob](https://t.me/xnabob)
 **Channel:** [Telegram](https://t.me/KarmaSyndicate)
