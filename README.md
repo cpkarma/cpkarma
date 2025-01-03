@@ -13,7 +13,7 @@
 6. **(Python) - Mass WHM To cPanel Password Reset** - [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
 7. **(Python) - Mass SMTP Checker** - [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
 
-## [ Setup Tutorial ]
+## [ Installation Tutorial ]
 
 **Video Tutorial:** [Tutorial Link](https://www.youtube.com/watch?v=UJa3t1w4-AI)
 
