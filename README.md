@@ -13,6 +13,7 @@
 6. **(Python) - Mass WHM To cPanel Password Reset** - [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
 7. **(Python) - Mass SMTP Checker** - [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
 8. **(Python) - Mass cPanel 2FA Bypass and Shell Uploader (Free)** - [Download Link](https://github.com/cpkarma/cPanel-2FA-Bypass-FreeVersion)
+9. **(PHP) - Syndicate Ultimate Bypass Filemanager Shell** - [Download Link](https://github.com/cpkarma/Syndicate-Bypass-Filemanager-Shell)
 
 ## [ Installation Tutorial ]
 
