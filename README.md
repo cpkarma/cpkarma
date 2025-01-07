@@ -7,13 +7,14 @@
 
 1. **(PHP) - cPanel Karma** - [Download Link](https://github.com/cpkarma/cPanel-Karma)
 2. **(PHP) - Reborn Bypass Web Shell** - [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
-3. **(Python) - Mass cPanel Checker And Shell Uploader without API** - [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
-4. **(Python) - Mass cPanel Checker And Shell Uploader with API** - [Download Link](https://github.com/cpkarma/Cpanel-Checker)
-5. **(Python) - Mass Any Shell or Uploader To File Uploader** - [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
-6. **(Python) - Mass WHM To cPanel Password Reset** - [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
-7. **(Python) - Mass SMTP Checker** - [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
-8. **(Python) - Mass cPanel 2FA Bypass and Shell Uploader (Free)** - [Download Link](https://github.com/cpkarma/cPanel-2FA-Bypass-FreeVersion)
-9. **(PHP) - Syndicate Ultimate Bypass Filemanager Shell** - [Download Link](https://github.com/cpkarma/Syndicate-Bypass-Filemanager-Shell)
+3. **(PHP) - Syndicate Ultimate Bypass Filemanager Shell** - [Download Link](https://github.com/cpkarma/Syndicate-Bypass-Filemanager-Shell)
+4. **(Python) - Mass cPanel Checker And Shell Uploader without API** - [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
+5. **(Python) - Mass cPanel Checker And Shell Uploader with API** - [Download Link](https://github.com/cpkarma/Cpanel-Checker)
+6. **(Python) - Mass Any Shell or Uploader To File Uploader** - [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
+7. **(Python) - Mass WHM To cPanel Password Reset** - [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
+8. **(Python) - Mass SMTP Checker** - [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
+9. **(Python) - Mass cPanel 2FA Bypass and Shell Uploader (Free)** - [Download Link](https://github.com/cpkarma/cPanel-2FA-Bypass-FreeVersion)
+
 
 ## [ Installation Tutorial ]
 
