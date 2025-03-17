@@ -4,7 +4,7 @@
 
 📢 **Channel:** [Telegram](https://t.me/KarmaSyndicate)
 
-## 🚀 Special Tool
+## 𖤍 Special Tool
 ➤ **AIO Python Tool (xCrack)** → [Download Link](https://github.com/cpkarma/xCrack/) ✔
 
 ## 🛠 Tools List
