@@ -1,12 +1,13 @@
-👋 Hello from **Karma Syndicate**
+# 👋 Welcome to Karma Syndicate
 
-**Contact:** [@xnabob](https://t.me/xnabob)
-**Channel:** [Telegram](https://t.me/KarmaSyndicate)
+🌐 **Contact:** [@xnabob](https://t.me/xnabob)
 
-## [ Special Tool ]
-**AIO Python Tool (xCrack)** → [Download Link](https://github.com/cpkarma/xCrack/)
+📢 **Channel:** [Telegram](https://t.me/KarmaSyndicate)
 
-## [ Tools List ]
+## 🚀 Special Tool
+🔹**AIO Python Tool (xCrack)** → [Download Link](https://github.com/cpkarma/xCrack/)
+
+## 🛠 Tools List
 
 01. **(PHP) - cPanel Karma** → [Download Link](https://github.com/cpkarma/cPanel-Karma)
 02. **(PHP) - Reborn Bypass Web Shell** → [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
@@ -20,13 +21,13 @@
 10. **(Python) - Mass cPanel To SMTP and Webmail Cracker** → [Download Link](https://github.com/cpkarma/Mass-cPanel-To-SMTP-and-Webmail-Cracker)
 
 
-## [ Installation Tutorial ]
+## 🎥 Installation Tutorial 
 
-**Video Tutorial:** [Tutorial Link](https://www.youtube.com/watch?v=UJa3t1w4-AI)
+📺 **Video Tutorial:** [Tutorial Link](https://www.youtube.com/watch?v=UJa3t1w4-AI)
 
 ## [ Public API ]
 
-- 💥 https://cpkarma.cc
+💥 **API Link:** https://cpkarma.cc
 
 ## **Support Karma Syndicate** ❤️  
 
