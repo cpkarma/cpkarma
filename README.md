@@ -25,11 +25,19 @@
 **Video Tutorial:** [Tutorial Link](https://www.youtube.com/watch?v=UJa3t1w4-AI)
 
 ## [ Public API ]
+
 - 💥 https://cpkarma.cc
 
-## [ Donate Us ]
+## **Support Karma Syndicate** ❤️  
 
-[![bitcoin-black](https://raw.githubusercontent.com/cpkarma/cpkarma/main/bitcoin-donate-black.png)](https://raw.githubusercontent.com/cpkarma/cpkarma/refs/heads/main/btc-address)
+If you find our tools helpful and want to support the continuous development of **Karma Syndicate**, consider making a donation. Your contribution helps us improve our projects, create new powerful tools, and keep everything free for the community.  
+
+🔹 **Bitcoin Donation Address:** `1GoFgJm3PECbogZxRVDYPhJEgN37Qn6cTd`  
+🔹 **Ethereum Donation Address:** `0xa386688e0cb01f641bf7f72334c237796a082e6b`  
+🔹 **USDT (TRC20) Donation Address:** `TEXrj6wSJCuBoKVou7A1fLmEu4m4Upuv3a`  
+
+Every donation, big or small, is truly appreciated. Thank you for being part of the **Karma Syndicate** community! 🚀💙  
+
 <!---
 cpkarma/cpkarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
