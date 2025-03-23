@@ -12,7 +12,7 @@
 01. **(PHP) - cPanel Karma** → [Download Link](https://github.com/cpkarma/cPanel-Karma)
 02. **(PHP) - Reborn Bypass Web Shell** → [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
 03. **(PHP) - Karma Syndicate Ultimate Bypass Filemanager Shell** → [Download Link](https://github.com/cpkarma/Karma-Syndicate-Bypass-Filemanager-Shell)
-04. **(EXE) - Accurate Mass cPanel Checker v3** → [Download Link](https://github.com/cpkarma/cPanel-checker-v3)
+04. **(PHP) - Accurate Mass cPanel Checker v3** → [Download Link](https://github.com/cpkarma/cPanel-checker-v3)
 05. **(Python) - Mass cPanel Checker And Shell Uploader without API** → [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
 06. **(Python) - Mass cPanel Checker And Shell Uploader with API** → [Download Link](https://github.com/cpkarma/Cpanel-Checker)
 07. **(Python) - Mass Any Shell or Uploader To File Uploader** → [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
