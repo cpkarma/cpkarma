@@ -10,16 +10,17 @@
 ## 🛠 Tools List
 
 00. **(EXE) - cPezzy** → [Download Link](https://github.com/cpkarma/cPezzy)
-01. **(PHP) - Reborn Bypass Web Shell** → [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
-02. **(PHP) - Karma Syndicate Ultimate Bypass Filemanager Shell** → [Download Link](https://github.com/cpkarma/Karma-Syndicate-Bypass-Filemanager-Shell)
-03. **(PHP) - Accurate Mass cPanel Checker v3** → [Download Link](https://github.com/cpkarma/cPanel-checker-v3)
-04. **(Python) - Mass cPanel Checker And Shell Uploader without API** → [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
-05. **(Python) - Mass Any Shell or Uploader To File Uploader** → [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
-06. **(Python) - Mass WHM To cPanel Password Reset** → [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
-07. **(Python) - Mass SMTP Checker** → [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
-08. **(Python) - Mass cPanel 2FA Bypass and Shell Uploader (Free)** → [Download Link](https://github.com/cpkarma/cPanel-2FA-Bypass-FreeVersion)
-09. **(Python) - Mass cPanel To SMTP and Webmail Cracker** → [Download Link](https://github.com/cpkarma/Mass-cPanel-To-SMTP-and-Webmail-Cracker)
-10. **(Python) - Mass cPanel List Filter** → [Download Link](https://github.com/cpkarma/cpanel-filter)
+1.  **(EXE) - Combo Cracker** → [Download Link](https://drive.google.com/file/d/1_8KJDa3AY3ZZ8BZKqwy99MJ2HVTcNb4j/view)
+2. **(PHP) - Reborn Bypass Web Shell** → [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
+3. **(PHP) - Karma Syndicate Ultimate Bypass Filemanager Shell** → [Download Link](https://github.com/cpkarma/Karma-Syndicate-Bypass-Filemanager-Shell)
+4. **(PHP) - Accurate Mass cPanel Checker v3** → [Download Link](https://github.com/cpkarma/cPanel-checker-v3)
+5. **(Python) - Mass cPanel Checker And Shell Uploader without API** → [Download Link](https://github.com/cpkarma/Mass-cPanel-Checker-Python)
+6. **(Python) - Mass Any Shell or Uploader To File Uploader** → [Download Link](https://github.com/cpkarma/Mass-Any-Shell-Or-Uploader-To-File-Upload)
+7. **(Python) - Mass WHM To cPanel Password Reset** → [Download Link](https://github.com/cpkarma/Mass-WHM-To-cPanel-Account-Reset)
+8. **(Python) - Mass SMTP Checker** → [Download Link](https://github.com/cpkarma/Mass-SMTP-Checker)
+9. **(Python) - Mass cPanel 2FA Bypass and Shell Uploader (Free)** → [Download Link](https://github.com/cpkarma/cPanel-2FA-Bypass-FreeVersion)
+10. **(Python) - Mass cPanel To SMTP and Webmail Cracker** → [Download Link](https://github.com/cpkarma/Mass-cPanel-To-SMTP-and-Webmail-Cracker)
+11. **(Python) - Mass cPanel List Filter** → [Download Link](https://github.com/cpkarma/cpanel-filter)
 
 
 ## 🎥 Installation Tutorial 
