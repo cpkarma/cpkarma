@@ -9,6 +9,7 @@
 
 ## 🛠 Tools List
 
+00. **(EXE) - cPezzy** → [Download Link](https://github.com/cpkarma/cPezzy)
 01. **(PHP) - Reborn Bypass Web Shell** → [Download Link](https://github.com/cpkarma/Reborn-PHP-Bypass-Webshell)
 02. **(PHP) - Karma Syndicate Ultimate Bypass Filemanager Shell** → [Download Link](https://github.com/cpkarma/Karma-Syndicate-Bypass-Filemanager-Shell)
 03. **(PHP) - Accurate Mass cPanel Checker v3** → [Download Link](https://github.com/cpkarma/cPanel-checker-v3)
