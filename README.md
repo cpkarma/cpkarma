@@ -5,7 +5,7 @@
 📢 **Channel:** [Telegram](https://t.me/KarmaSyndicate)
 
 ## 𖤍 Special Tool
-➤ **GhostCrack: Ultimate All-in-One Web Automation Tool For Hackers** → [Download Link](https://github.com/cpkarma/GhostCrack) ✓
+➤ **GhostCrack: Ultimate All-in-One Web Automation Tool For Hackers** → [Download Link](https://github.com/cpkarma/GhostCrack-v2) ✓
 
 ➤ **AIO Python Tool (xCrack)** → [Download Link](https://github.com/cpkarma/xCrack/) ✓
 
